@@ -2,7 +2,7 @@
 
 Hello my freind!
 
-this Project just have front and you can use it 
+this Project just have a front and you can use it 
 i hope you enjoy :)
 
 
