@@ -2,7 +2,7 @@
 
 Hello my freind!
 
-this Project just have a front and you can use it 
+this Project is a simple log in page and created with Ptyhon
 i hope you enjoy :)
 
 
